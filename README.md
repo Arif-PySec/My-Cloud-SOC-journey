@@ -15,3 +15,11 @@
   - Explored advanced Cisco CLI commands: `show ip route` to view local routing maps, and `show bgp ipv4 unicast` to look at global internet routing paths.
 
 ---
+### 📅 2026-06-27
+- **Core Focus:** OSI Model and TCP/IP Model Foundations
+- **Platform Used:** YouTube (NetworkChuck CCNA)
+- **What I Mastered:** - Learned that network communication is broken down into layered models (OSI and TCP/IP) to standardize how data travels.
+  - Focused on Layer 2 (Data Link layer) where MAC addresses and switches operate, and Layer 3 (Network layer) where IP addresses and routers handle global paths.
+  - Understood how data flows down the stack on the sending device and back up the stack on the receiving device.
+
+---
