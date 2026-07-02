@@ -23,3 +23,11 @@
   - Understood how data flows down the stack on the sending device and back up the stack on the receiving device.
 
 ---
+### 📅 2026-07-02
+- **Core Focus:** Practical Implementation of OSI & TCP/IP Models
+- **Platform Used:** CCNA Practical Lab / TryHackMe
+- **What I Mastered:** - Explored the deep details of the OSI and TCP/IP layers through hands-on implementation.
+  - Learned how packet encapsulation works practically: seeing how data is wrapped in a Transport header (ports), then a Network header (IPs), and finally a Data Link header (MACs).
+  - Understood how to read and trace a packet as it moves up and down the network stack.
+
+---
